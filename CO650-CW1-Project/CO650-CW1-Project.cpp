@@ -24,7 +24,7 @@ int main()
 
 	// Create an animal object of each class.
 	// Last 3 parameters are: feedable, pettable, healthy
-	Birds parrot("Polly", 3, 1, "Squawk",true,true,true);
+	Birds parrot("Polly", 3, 1, "Squawk",true,true,false);
 	Reptiles snake("Slytherin", 5, 2, "Hiss",true,false,true);
 	Mammals lion("Simba", 4, 300, "Roar",true,false,true);
 
